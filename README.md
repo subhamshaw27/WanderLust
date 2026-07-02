@@ -150,7 +150,7 @@ npm start
 
 ## 👤 Author
 
-**Ankit Kumar**
+**Subham Kumar Shaw**
 
 ---
 
